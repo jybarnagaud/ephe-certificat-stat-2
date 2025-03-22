@@ -1,0 +1,49 @@
+Acronym	Status	Reason	Realm_biome	latin	french
+BCT	Endemic	NOT_INTRO	NZ	Chlidonias albostriatus	Guifette des galets
+BEL	Endemic	NOT_INTRO	NZ	Anthornis melanura	Meliphage carillonneur
+BLA	Introduced	SONG	EU	Turdus merula	Merle noir
+BRO	Endemic	NOT_INTRO	NZ	Mohoua novaeseelandiae	Mohoua pipipi
+CAN	Introduced	OTHER	USA	Branta canadensis	Bernache du Canada
+CHA	Introduced	VIEW	EU	Fringilla coelebs	Pinson des arbres
+DOT	Endemic	NOT_INTRO	NZ	Charadrius bicinctus	Pluvier a double collier
+DUN	Introduced	SONG	EU	Prunella modularis	Accenteur mouchet
+FAL	Endemic	NOT_INTRO	NZ	Falco novaeseelandiae	Faucon de Nouvelle-Zelande
+FAN	Endemic	NOT_INTRO	NZ	Rhipidura fuliginosa	Rhipidure a collier
+GOL	Introduced	VIEW	EU	Carduelis carduelis	Chardonneret elegant
+GRE	Introduced	VIEW	EU	Chloris chloris	Verdier dEurope
+GRW	Endemic	NOT_INTRO	NZ	Gerygone igata	Gerygone de Nouvelle-Zelande
+GUL	Native	NOT_INTRO	NZ	Larus dominicanus	Goeland dominicain
+HAR	Native	NOT_INTRO	NZ	Circus approximans	Busard de Gould
+HOU	Introduced	SONG	EU	Passer domesticus	Moineau domestique
+KAK	Endemic	NOT_INTRO	NZ	Nestor meridionalis	Nestor superbe
+KEA	Endemic	NOT_INTRO	NZ	Nestor notabilis	Nestor kea
+KIN	Native	NOT_INTRO	NZ	Todiramphus sanctus	Martin chasseur sacre
+LGO	Introduced	OTHER	EU	Athene noctua	Chevêche dAthena
+LON	Endemic	NOT_INTRO	NZ	Eudynamys taitensis	Coucou de Nouvelle Zelande
+MAG	Introduced	OTHER	AUS	Gymnorhina tibicen	Cassican fluteur
+MAL	Introduced	OTHER	EU	Anas platyrhynchos	Canard colvert
+MOR	Native	NOT_INTRO	NZ	Ninox novaeseelandiae	Ninoxe boubouk
+OYS	Native	NOT_INTRO	NZ	Haematopus finschi	Huitrier de Finsch
+PHE	Introduced	OTHER	EU	Phasianus colchicus	Faisan de Colchide
+PIG	Endemic	NOT_INTRO	NZ	Hemiphaga novaeseelandiae	Carpophage de Nouvelle Zelande
+PIP	Endemic	NOT_INTRO	NZ	Anthus novaeseelandiae	Pipit de Nouvelle Zelande
+PLO	Native	NOT_INTRO	NZ	Vanellus miles	Vanneau soldat
+PUK	Native	NOT_INTRO	NZ	Porphyrio melanotus	Pukeko
+QUA	Introduced	OTHER	USA	Callipepla californica	Colin de Californie
+RCP	Endemic	NOT_INTRO	NZ	Cyanoramphus novaezelandiae	Perruche de Sparrman
+RED	Introduced	VIEW	EU	Carduelis flammea	Sizerin flamme
+RIF	Endemic	NOT_INTRO	NZ	Acanthisitta chloris	Xenique grimpeur
+ROB	Endemic	NOT_INTRO	NZ	Petroica australis	Miro rubisole
+ROC	Introduced	OTHER	EU	Columba livia	Pigeon biset
+SHE	Endemic	NOT_INTRO	NZ	Tadorna variegata	Tadorne de paradis
+SHI	Native	NOT_INTRO	NZ	Chrysococcyx lucidus	Coucou eclatant
+SIL	Native	NOT_INTRO	NZ	Zosterops lateralis	Zosterops a dos gris
+SKY	Introduced	SONG	EU	Alauda arvensis	Alouette des champs
+SON	Introduced	SONG	EU	Turdus philomelos	Grive musicienne
+STA	Introduced	OTHER	EU	Sturnus vulgaris	etourneau sansonnet
+SUL	Introduced	VIEW	AUS	Cacatua galerita	Cacatoes a huppe jaune
+SWA	Native	NOT_INTRO	NZ	Hirundo neoxena	Hirondelle messagere
+TOM	Endemic	NOT_INTRO	NZ	Petroica macrocephala	Miro mesange
+WFH	Native	NOT_INTRO	NZ	Egretta novaehollandiae	Aigrette a face blanche
+YCP	Endemic	NOT_INTRO	NZ	Cyanoramphus auriceps	Perruche a tête d or
+YEL	Introduced	VIEW	EU	Emberiza citrinella	Bruant jaune

@@ -1,0 +1,26 @@
+Espèce;Abbréviation;;Variables;Code;
+Acanthinula aculeata;Acant;;Pente sur les 25 m² de l'échantillonnage;pente_25m2;
+Aegopinella nitidula;Aego;;Ecart par rapport au sud de la pente;ecart_sud;
+Arianta arbustorum;Ariant;;Altitude;ele;
+Arion fasciatus;Arion_f;;Pourcentage de recouvrement par la roche sur le mètre carré de l'échantillonnage;pourc_roche_m2;Somme à 100 %
+Arion hortensis;Arion_h;;Pourcentage de recouvrement par la litière sur le mètre carré de l'échantillonnage;pourc_lit_m2;
+Arion intermedius;Arion_i;;Pourcentage de recouvrement par le sol nu sur le mètre carré de l'échantillonnage;pourc_sol_nu_m2;
+Arion subfuscus;Arion_s;;Pourcentage de recouvrement par la strate heracée sur le mètre carré de l'échantillonnage;pourc_herb_m2;
+Azeca goodalli;Azeca;;Pourcentage de recouvrement par la strate muscinale sur le mètre carré de l'échantillonnage;pourc_musc_m2;
+Cepaea hortensis;Cepaea;;Volume de bois mort (en cm²) sur le mètre carré de l'échantillonnage;bois_mort_m2;
+Clausilia rugosa parvula;Claus_r;;;;
+Clauslia bidentata;Claus_b;;;;
+Columella aspera;Colum;;;;
+Deroceras invadens;Der_inv;;;;
+Discus rotundatus;Disc;;;;
+Euconulus fulvus;Eucon;;;;
+Lehmannia marginata;Lehm;;;;
+Malacolimax tenellus;Malac;;;;
+Nesovitrea hammonis;Nesov;;;;
+Phenacolimax major;Phenac;;;;
+Punctum pygmaeum;Punct;;;;
+Semilimax pyrenaicus;Semil;;;;
+Trochulus sericeus;Troch;;;;
+Vitrea contracta;Vitr_con;;;;
+Vitrea crystallina;Vitr_cry;;;;
+Vitrina pellucida;Vitr_pel;;;;

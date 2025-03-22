@@ -1,0 +1,49 @@
+acronym;scientif_name;english_name;status;foraging;weight;movement;main_diet;nest_loc;clutch_size;brood_num;age_fledg;social;main_temp;first_intro;nb_intro;nb_indiv_released
+BCT;Chlidonias albostriatus;Black-fronted Tern;Endemic;aerial feeder;90;local;vertebrates;open on ground;2;1;30;gregarious;11,0318333;NA;NA;NA
+BEL;Anthornis melanura;Bellbird;Endemic;foliage gleaner;30;sedentary;nectar;open in tree;3;2;14;territorial;10,0891;NA;NA;NA
+BLA;Turdus merula;Blackbird;Introduced;ground prober;90;sedentary;invertebrates;open in tree;3;3;14;territorial;9,699328499;1861;16;785
+BRO;Mohoua novaeseelandiae;Brown Creeper;Endemic;canopy gleaner;11;sedentary;invertebrates;open in tree;3;2;20;territorial;8,500083333;NA;NA;NA
+CAN;Branta canadensis;Canada Goose;Introduced;ground gleaner;5000;local;seeds;open on ground;5;1;80;territorial;9,87801667;1905;NA;NA
+CHA;Fringilla coelebs;Chaffinch;Introduced;canopy gleaner;21;local;seeds;open in tree;4;2;14;territorial;6,152733278;1864;15;354
+DOT;Charadrius bicinctus;Banded Dotterel;Endemic;ground prober;60;local;invertebrates;open on ground;3;2;40;territorial;13,174;NA;NA;NA
+DUN;Prunella modularis;Dunnock;Introduced;ground gleaner;21;sedentary;seeds;open on ground;4;2;12;territorial;5,931133431;1868;15;404
+FAL;Falco novaeseelandiae;New-Zealand Falcon;Endemic;aerial feeder;640;local;vertebrates;cavity;3;2;33;territorial;9,822947368;NA;NA;NA
+FAN;Rhipidura fuliginosa;Fantail;Endemic;canopy gleaner;8;sedentary;invertebrates;open in tree;3;3;13;territorial;15,29080153;NA;NA;NA
+GOL;Carduelis carduelis;Goldfinch;Introduced;understory gleaner;15;local;seeds;open in tree;4;2;14;nonterritorial;6,966072727;1865;13;555
+GRE;Carduelis chloris;Greenfinch;Introduced;understory gleaner;28;local;seeds;open in tree;5;2;16;nonterritorial;8,399211855;1863;6;91
+GRW;Gerygone igata;Grey Warbler;Endemic;canopy gleaner;6,5;sedentary;invertebrates;open in tree;3;2;17;territorial;10,0891;NA;NA;NA
+GUL;Larus dominicanus;Southern Black-backed Gull;Native;ground gleaner;950;local;omnivorous;open on ground;3;1;50;gregarious;12,9321563;NA;NA;NA
+HAR;Circus approximans;Australasian Harrier;Native;aerial feeder;850;local;vertebrates;open on ground;4;2;44;territorial;16,11719892;NA;NA;NA
+HOU;Passer domesticus;House Sparrow;Introduced;understory gleaner;30;sedentary;seeds;cavity;4;3;15;nonterritorial;19,3291806;1865;6;307
+KAK;Nestor meridionalis;Kaka;Endemic;canopy gleaner;540;sedentary;seeds;cavity in tree;4;2;65;nonterritorial;10,06966667;NA;NA;NA
+KEA;Nestor notabilis;Kea;Endemic;understory gleaner;900;local;seeds;cavity;4;2;95;gregarious;8,4913;NA;NA;NA
+KIN;Todiramphus sanctus;New-Zealand Kingfisher;Native;aerial feeder;65;local;vertebrates;cavity;5;3;26;territorial;22,7296111;NA;NA;NA
+LGO;Athene noctua;Little German Owl;Introduced;aerial feeder;180;sedentary;vertebrates;cavity;4;2;32;territorial;10,47316747;1906;5;285
+LON;Urodynamis taitensis;Long-tailed Cuckoo;Endemic;canopy gleaner;125;local;invertebrates;open in tree;1;1;19;gregarious;10,22227778;NA;NA;NA
+MAG;Gymnorhina tibicen;Australian Magpie;Introduced;ground gleaner;350;sedentary;omnivorous;open in tree;3;1;28;territorial;21,29004671;1864;17;664
+MAL;Anas platyrhynchos;Mallard;Introduced;ground gleaner;1200;sedentary;seeds;open on ground;13;2;57;nonterritorial;16,7532083;1910;24;658
+MOR;Ninox novaeseelandiae;Morepork;Native;aerial feeder;175;sedentary;invertebrates;cavity;2;1;35;territorial;21,29250541;NA;NA;NA
+OYS;Haematopus finschi;South-Island Oystercatcher;Native;ground prober;550;local;invertebrates;open on ground;2;1;35;territorial;9,91508333;NA;NA;NA
+PHE;Phasianus colchicus;Pheasant;Introduced;ground prober;1200;sedentary;seeds;open on ground;9;5;14;territorial;8,173931122;1842;NA;NA
+PIG;Hemiphaga novaeseelandiae;New-Zealand Pigeon;Endemic;canopy gleaner;650;local;fruits;open in tree;1;2;37;gregarious;10,0891;NA;NA;NA
+PIP;Anthus novaeseelandiae;New-Zealand Pipit;Endemic;ground gleaner;40;local;invertebrates;open on ground;3;2;14;territorial;21,00183577;NA;NA;NA
+PLO;Vanellus spinosus;Spur-winged Plover;Native;ground gleaner;360;local;invertebrates;open on ground;4;2;49;territorial;26,0517917;NA;NA;NA
+PUK;Porphyrio melanotus;Pukeko;Native;ground gleaner;850;sedentary;omnivorous;open on ground;5;3;60;gregarious;22,33518465;NA;NA;NA
+QUA;Callipepla californica;California Quail;Introduced;ground gleaner;180;sedentary;seeds;open on ground;13;2;10;gregarious;9,712801587;1862;NA;NA
+RCP;Cyanoramphus novaezelandiae;Red-crowned Parakeet;Native;ground gleaner;75;sedentary;seeds;cavity in tree;7;1;45;gregarious;14,5415;NA;NA;NA
+RED;Acanthis flammea;Redpoll;Introduced;understory gleaner;12;local;seeds;open in tree;4;2;13;gregarious;-5,720894309;1868;9;618
+RIF;Acanthisitta chloris;Rifleman;Endemic;bark forager;7;sedentary;invertebrates;cavity in tree;4;2;24;territorial;9,822947368;NA;NA;NA
+ROB;Petroica australis;New-Zealand Robin;Endemic;understory gleaner;35;sedentary;invertebrates;open in tree;3;4;21;territorial;9,704111111;NA;NA;NA
+ROC;Columba livia;Rock Pigeon;Introduced;ground gleaner;400;sedentary;seeds;open on ground;2;3;30;gregarious;1,435318909;1860;NA;NA
+SHE;Tadorna variegata;Paradise Shelduck;Endemic;ground gleaner;1400;local;seeds;open on ground;9;1;56;territorial;10,4295833;NA;NA;NA
+SHI;Chrysococcyx lucidus;Shining Cuckoo;Native;canopy gleaner;25;local;invertebrates;open in tree;1;1;19;territorial;18,431397;NA;NA;NA
+SIL;Zosterops lateralis;Silvereye;Native;canopy gleaner;13;local;invertebrates;open in tree;3;2;10;territorial;17,66122709;NA;NA;NA
+SKY;Alauda arvensis;Skylark;Introduced;ground gleaner;38;sedentary;seeds;open on ground;3;2;20;territorial;4,400493122;1863;12;704
+SON;Turdus philomelos;Song Thrush;Introduced;ground prober;70;sedentary;invertebrates;open in tree;3;2;13;territorial;3,286780998;1863;15;577
+STA;Sturnus vulgaris;Starling;Introduced;ground prober;85;local;omnivorous;cavity;4;2;20;nonterritorial;6,198867414;1865;15;701
+SUL;Cacatua galerita;Sulphur-crested Cockatoo;Introduced;canopy gleaner;900;local;seeds;cavity;2;1;70;gregarious;21,87579155;1900;NA;NA
+SWA;Hirundo neoxena;Welcome Swallow;Native;aerial feeder;14;local;invertebrates;cavity;4;3;21;nonterritorial;18,85344415;NA;NA;NA
+TOM;Petroica macrocephala;New-Zealand Tomtit;Endemic;understory gleaner;11;sedentary;invertebrates;cavity in tree;4;3;18;territorial;10,0891;NA;NA;NA
+WFH;Egretta novaehollandiae;White-faced Heron;Native;ground gleaner;550;local;vertebrates;open in tree;4;1;40;nonterritorial;15,2361389;NA;NA;NA
+YCP;Cyanoramphus auriceps;Yellow-crowned Parakeet;Endemic;canopy gleaner;45;local;seeds;cavity;6;4;37;gregarious;9,508;NA;NA;NA
+YEL;Emberiza citrinella;Yellowhammer;Introduced;ground gleaner;27;local;seeds;open on ground;4;2;13;territorial;2,401558872;1865;11;620
